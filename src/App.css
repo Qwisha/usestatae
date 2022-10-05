@@ -1,0 +1,104 @@
+.button{
+  background-color: blanchedalmond;
+  padding: 3px 40px;
+  margin: 5px;
+  font-size: 28px;
+  text-align: center;
+}
+.app
+{
+  width: 800px;
+  text-align: center;
+}
+.value1
+{
+  text-align: center;
+}
+
+
+.formstyle
+{
+width: 350px;
+height: 380px;
+margin: 20px auto;
+border: 2px solid black;
+border-radius: 5px;
+padding: 15px;
+text-align: center;
+}
+h1 {
+   text-align: center;
+   padding: 23px;
+   color: black;
+   }
+input:hover
+{
+background-color: #D5D8DC;
+}
+.btn{
+width: 70px;
+height: 50px;
+font-size: 28px;
+margin: 2px;
+cursor: pointer;
+background-color: whitesmoke;
+color: black;
+border: none;
+text-align: center;
+}
+.textview{
+width: 280px;
+margin: 3px;
+font-size: 28px;
+padding: 5px;
+}  
+   
+input:focus {
+
+  outline: none;
+}
+
+.main {
+  display: flex;
+}
+
+.center {
+  width: 200px;
+  margin: 300px auto;
+  position: relative;
+}
+
+.btn3 {
+  width: 60px;
+  height: 50px;
+  background-color: ghostwhite;
+  border: none;
+}
+
+.btn1 {
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+}
+
+.btn4 {
+  border-right: 3px solid black;
+}
+
+.btn2 {
+  border-bottom: 3px solid black;
+}
+
+.new {
+  border: none;
+  /* height: 20px; */
+  margin: 30px 10px;
+  padding: 08px 15px;
+  background-color: cornflowerblue;
+}
+.flex
+{
+  display: flex;
+}
+.flex p {
+  margin: 20px;
+}
